@@ -276,24 +276,7 @@ Performance comparison of AES and RSA encryption algorithms with cryptographic b
 
 </tr>
 
-</table>---
-
-# 🔬 Upcoming Projects
-
-| 🚀 Project | Domain |
-|------------|--------|
-| 🛡️ Windows Forensics Toolkit | Digital Forensics |
-| 📱 Android Forensics | Mobile Forensics |
-| 🌐 Network Traffic Analyzer | Network Forensics |
-| ☁️ Cloud Forensics | Cloud Security |
-| 🔬 Malware Analysis Lab | Malware Analysis |
-| 🧠 Memory Forensics Toolkit | DFIR |
-| 📊 Threat Hunting Dashboard | SOC |
-| 📂 Browser Artifact Analyzer | Digital Forensics |
-| 📧 Email Header Analyzer | Email Forensics |
-| 🤖 AI Threat Detection System | AI Security |
-
-------
+</table>
 
 # 🏆 Certifications
 
