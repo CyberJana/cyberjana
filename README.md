@@ -102,37 +102,135 @@
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
-## 🔐 Explainable LLM Inspired SOC Assistant
+<div align="center">
 
-> Python • Flask • SQL • Machine Learning
+| Project | Description | Technologies |
+|:--------:|:-----------|:------------:|
+| 🤖 **Explainable LLM-Inspired SOC Assistant** | AI-powered SOC dashboard for SIEM alert investigation, severity classification, explainable reasoning, and incident response support. | Python • Flask • SQL • Random Forest • Machine Learning |
+| 🔐 **Data Encryption & Decryption Pattern Analysis** | Comparative analysis of AES and RSA encryption algorithms with performance benchmarking and SQL-based reporting. | Python • AES • RSA • PyCryptodome • SQL |
 
-### Features
-
-- AI Assisted SIEM Investigation
-- Rule Based Detection
-- Random Forest Classification
-- Alert Prioritization
-- Explainable Decision Support
-- Dashboard Visualization
-- Incident Response Workflow
+</div>
 
 ---
 
-## 🔒 AES vs RSA Performance Analysis
+## 🤖 Explainable LLM-Inspired SOC Assistant
 
-> Python • SQL • PyCryptodome
+<p align="center">
 
-### Features
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,vscode" />
 
-- Encryption Analysis
-- Decryption Analysis
-- Performance Benchmarking
-- Cryptographic Comparison
-- Database Reporting
+</p>
+
+### 📌 Overview
+
+Developed an intelligent Security Operations Center (SOC) assistant that analyzes SIEM alerts, classifies threat severity, and provides explainable recommendations to help security analysts respond more efficiently.
+
+### ✨ Key Features
+
+- 🚨 SIEM Alert Investigation
+- 🤖 AI-Based Alert Classification
+- 📊 Severity Classification (Low, High, Critical)
+- 🧠 Explainable AI (XAI)
+- ⚡ Rule-Based Detection
+- 🌲 Random Forest Classification
+- 📋 Incident Response Recommendations
+- 📈 Interactive Dashboard
+- 🔍 Alert Prioritization
+- 📉 Reduced Alert Fatigue
+
+### 🛠️ Tech Stack
+
+```text
+Python
+Flask
+SQL
+Random Forest
+Machine Learning
+HTML
+CSS
+```
+
+### 📂 Repository
+
+```text
+Explainable-LLM-SOC-Assistant
+├── app.py
+├── dashboard.py
+├── model.py
+├── database.py
+├── templates/
+├── static/
+├── requirements.txt
+└── README.md
+```
 
 ---
+
+## 🔐 Data Encryption & Decryption Pattern Analysis
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,vscode" />
+
+</p>
+
+### 📌 Overview
+
+A cryptographic analysis project comparing AES and RSA algorithms by evaluating encryption and decryption performance, execution time, security, and efficiency.
+
+### ✨ Key Features
+
+- 🔒 AES Encryption
+- 🔑 RSA Encryption
+- ⏱️ Performance Benchmarking
+- 📈 Encryption Time Analysis
+- 📉 Decryption Time Analysis
+- 💾 SQL Database Integration
+- 📊 Comparative Reports
+- 🛡️ Cryptographic Evaluation
+
+### 🛠️ Tech Stack
+
+```text
+Python
+AES
+RSA
+PyCryptodome
+SQL
+```
+
+### 📂 Repository
+
+```text
+AES-RSA-Performance-Analysis
+├── encrypt.py
+├── decrypt.py
+├── benchmark.py
+├── database.py
+├── results/
+└── README.md
+```
+
+---
+
+# 🔬 Upcoming Projects
+
+| 🚀 Project | Domain |
+|------------|--------|
+| 🛡️ Windows Forensics Toolkit | Digital Forensics |
+| 📱 Android Forensics | Mobile Forensics |
+| 🌐 Network Traffic Analyzer | Network Forensics |
+| ☁️ Cloud Forensics | Cloud Security |
+| 🔬 Malware Analysis Lab | Malware Analysis |
+| 🧠 Memory Forensics Toolkit | DFIR |
+| 📊 Threat Hunting Dashboard | SOC |
+| 📂 Browser Artifact Analyzer | Digital Forensics |
+| 📧 Email Header Analyzer | Email Forensics |
+| 🤖 AI Threat Detection System | AI Security |
+
+------
 
 # 🏆 Certifications
 
