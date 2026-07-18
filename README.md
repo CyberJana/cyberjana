@@ -384,7 +384,7 @@ To contribute to the cybersecurity industry by applying my expertise in Digital 
 
 # 💬 Quote
 
-> "Security is not a product, but a continuous process."
+> 🔐 "Every byte tells a story. Digital forensics reveals the truth."
 
 ---
 
