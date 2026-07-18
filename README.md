@@ -266,15 +266,26 @@ A cryptographic analysis platform that compares encryption algorithms by evaluat
 🏅 AI Security
 
 ---
-
-# 🤝 Let's Connect
+## 🤝 Connect with Me
 
 <p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
+<p align="center">
+📧 <strong>Email:</strong> YOUR_EMAIL <br>
+💼 <strong>LinkedIn:</strong> https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+</p>
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
