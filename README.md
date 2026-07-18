@@ -243,7 +243,7 @@ Malware Analysis
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026
 
 - 🚀 Build 20+ Open Source Cybersecurity Projects
 - 🔍 Master Digital & Mobile Forensics
@@ -251,8 +251,20 @@ Malware Analysis
 - 🛡 Learn Advanced Malware Analysis
 - ☁️ Explore Cloud Security & DFIR
 - 📝 Publish Technical Articles on Cybersecurity
+---## 📬 Let's Connect
 
----
+<p align="center">
+
+📧 **Email:** <a href="mailto:janarthanana60@gmail.com">[janarthanana60@gmail.com](mailto:janarthanana60@gmail.com)</a>
+
+💼 **LinkedIn:** <a href="https://linkedin.com/in/janarthanan-a-ab3b79244">janarthanan-a-ab3b79244</a>
+
+💻 **GitHub:** <a href="https://github.com/CyberJana">@CyberJana</a>
+
+⭐ I'm always open to collaborating on **Digital Forensics, DFIR, AI Security, Incident Response, SOC Engineering, Threat Hunting, and Open Source Cybersecurity Projects.**
+
+</p>
+
 
 # 💡 Quote
 
