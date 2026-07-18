@@ -57,60 +57,48 @@
 </p>
 
 ---
+## 💻 Tech Stack
 
-# 🚀 Tech Stack
+<div align="center">
 
-## 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,bash,linux,flask,mysql,postgres,git,github,vscode" />
 
-<p>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,bash,mysql,postgres"/>
+---
+
+## 🛡️ Security & DFIR Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autopsy-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FTK_Imager-0066CC?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🛡 Cybersecurity
+## 🎯 Core Skills
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
-- Kali Linux
-- Wireshark
-- Nmap
-- Metasploit
-- Burp Suite
-- FTK Imager
-- Autopsy
-
----
-
-## 🔐 Areas of Interest
-
-✔ Digital Forensics
-
-✔ Incident Response
-
-✔ Threat Hunting
-
-✔ AI Security
-
-✔ Network Security
-
-✔ Malware Analysis
-
-✔ Cryptography
-
-✔ Log Analysis
-
-✔ Memory Forensics
-
-✔ Evidence Handling
-
-✔ Chain of Custody
+```text
+🔐 Digital Forensics
+🛡️ DFIR
+🚨 Incident Response
+🔍 Threat Hunting
+🌐 Network Security
+🤖 AI Security
+🧠 SOC Analysis
+📱 Mobile Forensics
+🖥️ Memory Forensics
+📂 Disk Forensics
+📊 Log Analysis
+🔒 Cryptography
+```
 
 ---
 
