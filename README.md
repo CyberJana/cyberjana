@@ -104,116 +104,179 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-| Project | Description | Technologies |
-|:--------:|:-----------|:------------:|
-| 🤖 **Explainable LLM-Inspired SOC Assistant** | AI-powered SOC dashboard for SIEM alert investigation, severity classification, explainable reasoning, and incident response support. | Python • Flask • SQL • Random Forest • Machine Learning |
-| 🔐 **Data Encryption & Decryption Pattern Analysis** | Comparative analysis of AES and RSA encryption algorithms with performance benchmarking and SQL-based reporting. | Python • AES • RSA • PyCryptodome • SQL |
+<td width="50%">
 
-</div>
+### 🔍 BSA Digital Evidence Management System
 
----
+**Digital Forensics Platform**
 
-## 🤖 Explainable LLM-Inspired SOC Assistant
+End-to-end digital evidence management platform designed for forensic investigations with secure evidence handling, chain of custody, and audit logging.
+
+**⚙️ Tech Stack**
+
+`Lovable` `React` `TypeScript` `Supabase` `Tailwind CSS`
+
+**✨ Features**
+
+- 🔐 Secure Login & Role-Based Access
+- 📁 Digital Evidence Management
+- 🔗 Chain of Custody Tracking
+- 🔍 MD5 / SHA-256 Hash Verification
+- 📝 Immutable Audit Logs
+- 📄 Automated PDF Report Generation
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,vscode" />
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </p>
 
-### 📌 Overview
+</td>
 
-Developed an intelligent Security Operations Center (SOC) assistant that analyzes SIEM alerts, classifies threat severity, and provides explainable recommendations to help security analysts respond more efficiently.
+<td width="50%">
 
-### ✨ Key Features
+### 🤖 Agentic AI Security Platform
+
+**Enterprise AI Security**
+
+AI security platform for protecting enterprise AI agents through role-based access control, prompt injection detection, audit logging, and real-time monitoring.
+
+**⚙️ Tech Stack**
+
+`Python` `FastAPI` `LangChain` `React` `PostgreSQL`
+
+**✨ Features**
+
+- 🤖 AI Agent Authentication
+- 🛡️ Prompt Injection Detection
+- 📊 Risk Analysis Dashboard
+- 📑 Security Audit Logs
+- 🚨 Threat Monitoring
+- ⚡ Real-Time Alerts
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 Autonomous Cyber Defense for the Modern Hospital
+
+**Healthcare Security Platform**
+
+Autonomous cyber defense platform for healthcare environments with AI-assisted incident response, SOC monitoring, and asset management.
+
+**⚙️ Tech Stack**
+
+`Python` `FastAPI` `React` `PostgreSQL` `MITRE ATT&CK`
+
+**✨ Features**
+
+- 🏥 Hospital Asset Management
+- 🔐 RBAC Authentication
+- 📈 SOC Dashboard
+- 🧠 AI Incident Copilot
+- 🎯 MITRE ATT&CK Mapping
+- 🚑 Threat Detection & Response
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🔐 Explainable LLM-Inspired SOC Assistant
+
+**AI-Powered SIEM Investigation**
+
+An explainable SOC assistant that analyzes SIEM alerts, classifies severity, and recommends response actions for analysts.
+
+**⚙️ Tech Stack**
+
+`Python` `Flask` `SQL` `Machine Learning`
+
+**✨ Features**
 
 - 🚨 SIEM Alert Investigation
-- 🤖 AI-Based Alert Classification
-- 📊 Severity Classification (Low, High, Critical)
-- 🧠 Explainable AI (XAI)
-- ⚡ Rule-Based Detection
-- 🌲 Random Forest Classification
-- 📋 Incident Response Recommendations
-- 📈 Interactive Dashboard
-- 🔍 Alert Prioritization
-- 📉 Reduced Alert Fatigue
-
-### 🛠️ Tech Stack
-
-```text
-Python
-Flask
-SQL
-Random Forest
-Machine Learning
-HTML
-CSS
-```
-
-### 📂 Repository
-
-```text
-Explainable-LLM-SOC-Assistant
-├── app.py
-├── dashboard.py
-├── model.py
-├── database.py
-├── templates/
-├── static/
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 🔐 Data Encryption & Decryption Pattern Analysis
+- 📊 Alert Prioritization
+- 🤖 Explainable AI (XAI)
+- 🔍 Threat Classification
+- 📈 SOC Dashboard
+- ⚡ Incident Response Support
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,vscode" />
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </p>
 
-### 📌 Overview
+</td>
 
-A cryptographic analysis project comparing AES and RSA algorithms by evaluating encryption and decryption performance, execution time, security, and efficiency.
+</tr>
 
-### ✨ Key Features
+<tr>
 
-- 🔒 AES Encryption
-- 🔑 RSA Encryption
-- ⏱️ Performance Benchmarking
-- 📈 Encryption Time Analysis
-- 📉 Decryption Time Analysis
-- 💾 SQL Database Integration
-- 📊 Comparative Reports
-- 🛡️ Cryptographic Evaluation
+<td colspan="2">
 
-### 🛠️ Tech Stack
+### 🔒 Data Encryption & Decryption Pattern Analysis
 
-```text
-Python
-AES
-RSA
-PyCryptodome
-SQL
-```
+**Cryptography & Performance Analysis**
 
-### 📂 Repository
+Performance comparison of AES and RSA encryption algorithms with cryptographic benchmarking and SQL-based reporting.
 
-```text
-AES-RSA-Performance-Analysis
-├── encrypt.py
-├── decrypt.py
-├── benchmark.py
-├── database.py
-├── results/
-└── README.md
-```
+**⚙️ Tech Stack**
 
----
+`Python` `AES` `RSA` `PyCryptodome` `SQL`
+
+**✨ Features**
+
+- 🔑 AES vs RSA Comparison
+- ⏱️ Encryption Performance Benchmark
+- 📊 Security Analysis
+- 💾 SQL Reporting
+- 📈 Cryptographic Evaluation
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>---
 
 # 🔬 Upcoming Projects
 
