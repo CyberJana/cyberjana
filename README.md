@@ -104,7 +104,6 @@
 
 # 🚀 Featured Projects
 
-<table>
 <tr>
 
 <td width="50%">
@@ -275,8 +274,6 @@ Performance comparison of AES and RSA encryption algorithms with cryptographic b
 </td>
 
 </tr>
-
-</table>
 
 # 🏆 Certifications
 
