@@ -1,109 +1,268 @@
-# 👋 Hi, I'm Janarthanan A
+<div align="center">
 
-> **Digital Forensics • DFIR • AI Security • Incident Response • SOC •
-> Threat Hunting**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=JANARTHANAN%20A&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling"/>
 
-```{=html}
+# 🔐 Digital Forensics Engineer | DFIR | AI Security | SOC | Python
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=JANARTHANAN%20A&fontSize=42&animation=twinkling"/>`{=html}
-```{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Digital+Forensics+Engineer;AI+Security+Researcher;SOC+Analyst;Threat+Hunter;Incident+Responder;Python+Automation;Cybersecurity+Researcher"/>
 </p>
-```
-```{=html}
+
+<img src="https://komarev.com/ghpvc/?username=cyberjana&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 M.Sc. Information Security & Digital Forensics
+
+🔐 Passionate about
+
+- Digital Forensics
+- DFIR
+- Incident Response
+- AI Security
+- Threat Hunting
+- SOC Operations
+- Malware Analysis
+- Network Security
+- Python Automation
+
+💡 Interested in building intelligent cybersecurity solutions using AI and Machine Learning.
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-```
-`<a href="https://github.com/cyberjana">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-cyberjana-181717?style=for-the-badge&logo=github"/>`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://github.com/CyberJana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/janarthanan-a-ab3b79244/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://janarthanan-portfilio.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="mailto:janarthanana60@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,bash,mysql,postgres"/>
+
+</p>
+
+---
+
+## 🛡 Cybersecurity
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+- Kali Linux
+- Wireshark
+- Nmap
+- Metasploit
+- Burp Suite
+- FTK Imager
+- Autopsy
+
+---
+
+## 🔐 Areas of Interest
+
+✔ Digital Forensics
+
+✔ Incident Response
+
+✔ Threat Hunting
+
+✔ AI Security
+
+✔ Network Security
+
+✔ Malware Analysis
+
+✔ Cryptography
+
+✔ Log Analysis
+
+✔ Memory Forensics
+
+✔ Evidence Handling
+
+✔ Chain of Custody
+
+---
+
+# 💼 Featured Projects
+
+## 🔐 Explainable LLM Inspired SOC Assistant
+
+> Python • Flask • SQL • Machine Learning
+
+### Features
+
+- AI Assisted SIEM Investigation
+- Rule Based Detection
+- Random Forest Classification
+- Alert Prioritization
+- Explainable Decision Support
+- Dashboard Visualization
+- Incident Response Workflow
+
+---
+
+## 🔒 AES vs RSA Performance Analysis
+
+> Python • SQL • PyCryptodome
+
+### Features
+
+- Encryption Analysis
+- Decryption Analysis
+- Performance Benchmarking
+- Cryptographic Comparison
+- Database Reporting
+
+---
+
+# 🏆 Certifications
+
+🏅 NPTEL — Computer Networks and Internet Protocol
+
+🏅 Ethical Hacking
+
+🏅 Mastering FTK Imager & Autopsy
+
+🏅 Governance Risk & Compliance (GRC)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyberjana&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberjana&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberjana&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberjana&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cyberjana&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💻 Digital Forensics Skills
+
+```text
+Disk Imaging
+Memory Forensics
+Windows Artifacts
+Linux Forensics
+Network Forensics
+Cloud Forensics
+Mobile Forensics
+Browser Forensics
+Log Analysis
+Timeline Analysis
+Incident Response
+Chain of Custody
+Evidence Preservation
+Malware Basics
 ```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 About Me
+# 🤖 AI Security
 
--   🎓 M.Sc. Information Security & Digital Forensics
--   🔍 Passionate about Digital Forensics, DFIR and AI Security
--   💻 Python developer with cybersecurity focus
--   🌱 Learning Incident Response, Malware Analysis, Memory Forensics
-    and Cloud Forensics
+```text
+Machine Learning
+SOC Automation
+SIEM Investigation
+Explainable AI
+Threat Detection
+Alert Classification
+Automation
+Python Security
+```
 
-------------------------------------------------------------------------
+---
 
-# 🛡️ Technical Skills
+# ⚡ Currently Learning
 
-## Languages
+- Advanced Digital Forensics
+- Memory Analysis
+- Threat Hunting
+- Cloud Security
+- AI Security
+- Malware Reverse Engineering
 
--   Python
--   Bash
--   SQL
+---
 
-## Digital Forensics
+# 🎯 Career Objective
 
--   Autopsy
--   FTK Imager
--   Volatility
--   Magnet AXIOM (Learning)
+To contribute to the cybersecurity industry by applying my expertise in Digital Forensics, DFIR, AI Security, Incident Response, and Python Automation while continuously expanding my technical knowledge and delivering impactful security solutions.
 
-## Network Security
+---
 
--   Wireshark
--   Nmap
--   Burp Suite
--   Security Onion
+# 💬 Quote
 
-## Operating Systems
+> "Security is not a product, but a continuous process."
 
--   Linux
--   Windows
+---
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🤖 Featured Projects
+### ⭐ If you like my work, consider giving a star to my repositories!
 
-## 1. BSA Digital Evidence Management System
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
 
-Centralized evidence management platform supporting chain of custody,
-hash verification, secure evidence storage and reporting.
-
-## 2. Agentic AI Security Platform
-
-AI-powered cybersecurity assistant for threat detection, investigations
-and incident response.
-
-## 3. Autonomous Cyber Defense for the Modern Hospital
-
-Healthcare cybersecurity platform with automated detection and response.
-
-## 4. Explainable LLM-Inspired SOC Assistant
-
-LLM-assisted SIEM alert investigation with explainable recommendations.
-
-## 5. Data Encryption and Decryption Pattern Analysis
-
-Comparison of AES, RSA and ECC performance and security.
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Stats
-
-Replace with these URLs after publishing:
-
--   https://github-readme-stats.vercel.app/api?username=cyberjana&show_icons=true&theme=tokyonight
--   https://github-readme-streak-stats.herokuapp.com/?user=cyberjana&theme=tokyonight
--   https://github-readme-activity-graph.vercel.app/graph?username=cyberjana&theme=tokyo-night
--   https://github-profile-trophy.vercel.app/?username=cyberjana&theme=tokyonight
-
-------------------------------------------------------------------------
-
-# 📫 Connect
-
--   GitHub: https://github.com/cyberjana
--   Email: **Add your email here**
--   LinkedIn: **Add your LinkedIn URL here**
-
-------------------------------------------------------------------------
-
-⭐ Thanks for visiting my profile!
+</div>
