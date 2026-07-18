@@ -408,10 +408,34 @@ To contribute to the cybersecurity industry by applying my expertise in Digital 
 
 ---
 
+---
+
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
+If you find my projects helpful or interesting, feel free to ⭐ star my repositories and connect with me.
+
+<p>
+
+<a href="https://github.com/CyberJana">
+<img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/janarthanan-a-ab3b79244/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:janarthanana60@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://janarthanan-portfilio.lovable.app">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
 
 </div>
