@@ -118,42 +118,80 @@ Digital Forensics • DFIR • SOC • AI Security • Incident Response • Thr
 ✔ Cyber Threat Intelligence
 
 ---
+# 🚀 Featured Projects
 
-# 📂 Featured Projects
+## 🛡️ BSA Digital Evidence Management System
+**Python • Flask • PostgreSQL**
 
-## 🔍 Digital Evidence Recovery
+A centralized digital evidence management platform designed to securely collect, preserve, manage, and track forensic evidence while maintaining chain of custody and compliance.
 
-Recover deleted files using forensic techniques.
-
----
-
-## 🦠 Ransomware Detection using Machine Learning
-
-Machine Learning based ransomware behavior detection.
-
----
-
-## 🔒 Secure Chat Application
-
-AES & RSA based encrypted communication.
+### Highlights
+- Secure login & role-based access
+- Chain of custody tracking
+- Evidence upload and storage
+- Case and evidence management dashboard
+- MD5 / SHA-256 hash verification
+- PDF report generation
 
 ---
 
-## 🌐 Port Scanner
+## 🤖 Agentic AI Security Platform
+**Python • FastAPI • LangChain**
 
-Python TCP/IP based network scanner.
+An AI-powered cybersecurity platform that automates threat detection, security investigations, incident response, and forensic analysis using intelligent AI agents.
+
+### Highlights
+- AI-driven security investigations
+- Threat detection and alerting
+- Automated incident response
+- Risk assessment
+- Security report generation
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 📱 Android Forensics Toolkit
+## 🏥 Autonomous Cyber Defense for the Modern Hospital
+**Python • Flask • AI • Llama**
 
-Android artifact collection and analysis.
+A healthcare-focused autonomous cybersecurity system designed to detect attacks, automate response actions, and protect critical medical infrastructure.
+
+### Highlights
+- AI-powered SOC dashboard
+- Threat detection
+- Automated response
+- MITRE ATT&CK mapping
+- Incident timeline
+- Hospital asset monitoring
 
 ---
 
-## 🧠 AI Powered Threat Detection
+## 🧠 Explainable LLM-Inspired SOC Assistant for SIEM Alert Investigation
+**Python • Flask • Docker • Llama**
 
-AI based anomaly detection for SOC environments.
+An AI SOC analyst assistant that explains SIEM alerts, prioritizes incidents, and provides transparent security recommendations for analysts.
+
+### Highlights
+- SIEM alert investigation
+- Explainable AI (XAI)
+- MITRE ATT&CK integration
+- Root cause analysis
+- Risk prioritization
+- Incident recommendations
+
+---
+
+## 🔐 Data Encryption and Decryption Pattern Analysis
+**Python • AES • RSA • ECC**
+
+A cryptographic analysis platform that compares encryption algorithms by evaluating performance, timing, and security characteristics.
+
+### Highlights
+- AES performance analysis
+- RSA encryption benchmarking
+- ECC comparison
+- Encryption timing analysis
+- Security evaluation
+- Visualization of results
 
 ---
 
