@@ -103,7 +103,23 @@
 ---
 
 # 🚀 Featured Projects
+# 🖥️ OpenBMC & Firmware Research
 
+Research project focused on **OpenBMC firmware**, **Redfish REST APIs**, and **QEMU-based BMC emulation**. Explored firmware architecture, D-Bus communication, embedded Linux services, and remote server management through hands-on analysis and Python automation.
+
+## 🚀 Key Highlights
+- OpenBMC Firmware Analysis
+- Redfish REST API Testing
+- QEMU-Based Emulation
+- Embedded Linux & D-Bus
+- Python Automation Scripts
+- Firmware Update & Inventory Analysis
+
+## 🛠️ Tech Stack
+OpenBMC • Linux • QEMU • Redfish API • Python • REST API • D-Bus • Git
+
+## 📚 Skills
+Firmware Analysis • Embedded Systems • Server Management • API Testing • Linux Administration
 <tr>
 
 <td width="50%">
